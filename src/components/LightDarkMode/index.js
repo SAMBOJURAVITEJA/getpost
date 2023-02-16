@@ -30,7 +30,7 @@ class LightDarkMode extends Component {
                          </div>
                     </div>
 
-            {Logged?return (a):return (b)}
+            {Logged?return (c):return (b)}
                             
     }
 }
